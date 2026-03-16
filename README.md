@@ -22,3 +22,4 @@ The dashboard includes:
 - Sales by Region
 
 ## Dashboard Preview
+![Dashboard]([dashboard picture.png](https://github.com/sarah888tw-hub/Sales-Analysis/blob/main/dashboard%20picture.png))
