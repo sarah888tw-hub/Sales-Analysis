@@ -5,6 +5,8 @@ This project analyzes sales performance using Power BI to identify key business 
 
 ## Tools
 - Power BI
+- Power Query (Data Cleaning & Transformation)
+- DAX (Data Modeling & Measures)
 
 ## Key Insights
 - The Technology category generated the highest revenue.
